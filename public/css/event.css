@@ -1,0 +1,11 @@
+body,
+html {
+    font-family: "Poppins";
+    background: #EFF8FF;
+}
+@media only screen and (max-width: 768px) {
+    /* For Desktop: */
+    .event-img2 {
+        margin-bottom: 1.5rem;
+    }
+}

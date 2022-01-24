@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap");
+body,
+html {
+    font-family: "Poppins";
+    background: #EFF8FF;
+}
+.grow {
+    transition: all 0.3s ease-in-out;
+}
+.grow:hover {
+    transform: scale(1);
+}
+
+.event-border {
+    background: #41444b;
+    height: px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.bg-navbar {
+    background-color: #396eb0;
+}
+
+.tr {
+    background-color: #41444b;
+}
+
+.table {
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+@media only screen and (min-width: 768px) {
+    /* For Desktop: */
+    .event-img {
+        width: 35rem;
+        height: 20rem;
+    }
+
+    .grow:hover {
+        transform: scale(1.1);
+    }
+}
