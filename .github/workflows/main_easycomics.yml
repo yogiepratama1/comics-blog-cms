@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'easycomics'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6521559CB84141B29C832991AEE48368 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D0CE6F903DD846DBABA56993ED7D2BFE }}
           package: .
