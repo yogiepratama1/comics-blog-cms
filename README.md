@@ -2,7 +2,7 @@
 
 <p align="center">
 <ul>
-    <li>git clonehttps://github.com/yogiepratama1/comics-blog-cms/</li>
+    <li>git clone https://github.com/yogiepratama1/comics-blog-cms/</li>
     <li>composer install</li>
     <li>npm install / yarn install</li>
     <li>cp .env.example .env</li>
